@@ -1,0 +1,16 @@
+{
+  "name": "serverless-graphql",
+  "version": "1.0.0",
+  "description": "Part 1 tutorial from https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/",
+  "main": "handler.js",
+  "dependencies": {
+    "apollo-server-lambda": "^2.0.0-beta.7",
+    "graphql-tools": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
